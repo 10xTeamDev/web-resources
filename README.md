@@ -2,8 +2,8 @@
 
 ### Icons
 
-- [Unicons](http://s.muz.li/ZTg1MWRhOTJk)
+- [Unicons](https://iconscout.com/unicons)
 
 ### Generators
 
-- [SVG Blob maker](http://s.muz.li/MjhjNmZiZDZm)
+- [SVG Blob maker](https://www.blobmaker.app)
