@@ -18,3 +18,7 @@
 
 - [Unicons](https://iconscout.com/unicons)
 - [Feather Icons](https://feathericons.com)
+
+### UX & UI
+
+- [Checklist design](https://www.checklist.design)
