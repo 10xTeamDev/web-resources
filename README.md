@@ -22,3 +22,7 @@
 ### UX & UI
 
 - [Checklist design](https://www.checklist.design)
+
+### Coding
+
+- [Cache-Control](https://csswizardry.com/2019/03/cache-control-for-civilians/)
