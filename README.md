@@ -23,6 +23,6 @@
 
 - [Checklist design](https://www.checklist.design)
 
-### Coding
+### Miscellaneous
 
 - [Cache-Control](https://csswizardry.com/2019/03/cache-control-for-civilians/)
