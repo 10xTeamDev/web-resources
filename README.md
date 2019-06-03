@@ -6,6 +6,7 @@
 - [Dribbble by color](https://dribbble.com/colors/BADA55)
 - [Accessible color generator](https://learnui.design/tools/accessible-color-generator.html)
 - [Data visualization color picker](https://learnui.design/tools/data-color-picker.html)
+- [Muzli Search](https://search.muz.li)
 
 ### Fonts
 
