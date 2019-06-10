@@ -16,6 +16,7 @@
 ### Generators
 
 - [SVG Blob maker](https://www.blobmaker.app)
+- [Responsive image breakpoints](https://responsivebreakpoints.com)
 
 ### Icons
 
@@ -26,6 +27,6 @@
 
 - [Checklist design](https://www.checklist.design)
 
-### Miscellaneous
+### Dev
 
 - [Cache-Control](https://csswizardry.com/2019/03/cache-control-for-civilians/)
