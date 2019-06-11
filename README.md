@@ -17,6 +17,7 @@
 
 - [SVG Blob maker](https://www.blobmaker.app)
 - [Responsive image breakpoints](https://responsivebreakpoints.com)
+- [README badges](https://shields.io)
 
 ### Icons
 
