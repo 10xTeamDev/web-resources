@@ -23,6 +23,7 @@
 
 - [Unicons](https://iconscout.com/unicons)
 - [Feather Icons](https://feathericons.com)
+- [SVG optimizer](https://jakearchibald.github.io/svgomg/)
 
 ### UX & UI
 
