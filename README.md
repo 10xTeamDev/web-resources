@@ -16,6 +16,7 @@
 ### Generators
 
 - [SVG Blob maker](https://www.blobmaker.app)
+- [SVG Waves maker](https://getwaves.io)
 - [Responsive image breakpoints](https://responsivebreakpoints.com)
 - [README badges](https://shields.io)
 
