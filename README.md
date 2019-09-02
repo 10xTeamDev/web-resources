@@ -7,6 +7,7 @@
 - [Accessible color generator](https://learnui.design/tools/accessible-color-generator.html)
 - [Data visualization color picker](https://learnui.design/tools/data-color-picker.html)
 - [Muzli Search](https://search.muz.li)
+- [Duotone images](https://duotone.shapefactory.co)
 
 ### Fonts
 
