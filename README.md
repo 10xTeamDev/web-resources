@@ -26,6 +26,7 @@
 - [Unicons](https://iconscout.com/unicons)
 - [Feather Icons](https://feathericons.com)
 - [SVG optimizer](https://jakearchibald.github.io/svgomg/)
+- [Hero Patterns](http://www.heropatterns.com)
 
 ### UX & UI
 
@@ -39,3 +40,4 @@
 ### Free media
 
 - [Mixkit](https://mixkit.co/)
+- [Unsplash](https://unsplash.com)
