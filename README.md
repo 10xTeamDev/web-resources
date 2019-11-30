@@ -10,10 +10,24 @@
 - [Duotone images](https://duotone.shapefactory.co)
 - [Use contrast](https://usecontrast.com)
 
+### Development
+
+- [Cache-Control](https://csswizardry.com/2019/03/cache-control-for-civilians/)
+- [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
+
+### Extensions
+
+- [HeadingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+
 ### Fonts
 
 - [FontSquirrel](https://www.fontsquirrel.com)
 - [Google Fonts](https://fonts.google.com)
+
+### Free media
+
+- [Mixkit](https://mixkit.co/)
+- [Unsplash](https://unsplash.com)
 
 ### Generators
 
@@ -33,13 +47,3 @@
 
 - [Checklist design](https://www.checklist.design)
 - [UI Store](https://www.uistore.design)
-
-### Dev
-
-- [Cache-Control](https://csswizardry.com/2019/03/cache-control-for-civilians/)
-- [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
-
-### Free media
-
-- [Mixkit](https://mixkit.co/)
-- [Unsplash](https://unsplash.com)
