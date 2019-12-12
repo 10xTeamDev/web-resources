@@ -9,6 +9,7 @@
 - [Muzli Search](https://search.muz.li)
 - [Duotone images](https://duotone.shapefactory.co)
 - [Use contrast](https://usecontrast.com)
+- [Leonardo](https://leonardocolor.io/)
 
 ### Development
 
