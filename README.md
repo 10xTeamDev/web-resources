@@ -15,10 +15,14 @@
 
 - [Cache-Control](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
+- [Free for dev](https://free-for.dev/#/)
 
 ### Extensions
 
 - [HeadingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+- [Full page screen capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+- [Modify headers](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
+- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 
 ### Fonts
 
