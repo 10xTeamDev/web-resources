@@ -10,6 +10,7 @@
 - [Duotone images](https://duotone.shapefactory.co)
 - [Use contrast](https://usecontrast.com)
 - [Leonardo](https://leonardocolor.io/)
+- [Happy hues](https://www.happyhues.co/)
 
 ### Development
 
