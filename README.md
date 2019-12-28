@@ -17,6 +17,7 @@
 - [Cache-Control](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
 - [Free for dev](https://free-for.dev/#/)
+- [Observable](https://observablehq.com/)
 
 ### Extensions
 
