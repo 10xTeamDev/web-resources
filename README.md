@@ -44,6 +44,7 @@
 - [Responsive image breakpoints](https://responsivebreakpoints.com)
 - [README badges](https://shields.io)
 - [Graph visualization](http://graphviz.it/)
+- [Box shadows](https://brumm.af/shadows)
 
 ### Icons
 
