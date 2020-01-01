@@ -45,6 +45,7 @@
 - [README badges](https://shields.io)
 - [Graph visualization](http://graphviz.it/)
 - [Box shadows](https://brumm.af/shadows)
+- [Easing gradients](https://larsenwork.com/easing-gradients/)
 
 ### Icons
 
