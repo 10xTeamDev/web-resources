@@ -30,6 +30,7 @@
 
 - [FontSquirrel](https://www.fontsquirrel.com)
 - [Google Fonts](https://fonts.google.com)
+- [Variable fonts](https://v-fonts.com/)
 
 ### Free media
 
