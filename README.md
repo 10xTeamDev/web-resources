@@ -18,6 +18,7 @@
 - [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
 - [Free for dev](https://free-for.dev/#/)
 - [Observable](https://observablehq.com/)
+- [CSS Font](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 
 ### Extensions
 
