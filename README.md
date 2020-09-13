@@ -13,6 +13,7 @@
 - [Happy hues](https://www.happyhues.co/)
 - [Cohesive colors](https://javier.xyz/cohesive-colors/)
 - [Muzli Colors](https://colors.muz.li/)
+- [Colors inspire](https://colorinspire.webflow.io/)
 
 ### Development
 
