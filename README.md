@@ -15,6 +15,7 @@
 - [Muzli Colors](https://colors.muz.li/)
 - [Colors inspire](https://colorinspire.webflow.io/)
 - [Scale](https://hihayk.github.io/scale/)
+- [Picular](https://picular.co/): find colors for a word based on Google images
 
 ### Development
 
