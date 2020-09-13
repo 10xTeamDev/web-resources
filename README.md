@@ -17,6 +17,7 @@
 - [Scale](https://hihayk.github.io/scale/)
 - [Picular](https://picular.co/): find colors for a word based on Google images
 - [Palette](https://palettte.app/): build color palettes by interpolating Hue, Saturation and Value (HSV)
+- [Colors Eva Design](https://colors.eva.design/): generate semantic colors from a brand color
 
 ### Development
 
