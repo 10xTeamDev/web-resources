@@ -14,6 +14,7 @@
 - [Cohesive colors](https://javier.xyz/cohesive-colors/)
 - [Muzli Colors](https://colors.muz.li/)
 - [Colors inspire](https://colorinspire.webflow.io/)
+- [Scale](https://hihayk.github.io/scale/)
 
 ### Development
 
