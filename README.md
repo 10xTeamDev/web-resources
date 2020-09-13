@@ -12,6 +12,7 @@
 - [Leonardo](https://leonardocolor.io/)
 - [Happy hues](https://www.happyhues.co/)
 - [Cohesive colors](https://javier.xyz/cohesive-colors/)
+- [Muzli Colors](https://colors.muz.li/)
 
 ### Development
 
