@@ -1,4 +1,4 @@
-# A list of useful resources for web development
+# A list of useful resources for building things on the web
 
 ### Colors
 
