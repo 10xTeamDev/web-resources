@@ -16,6 +16,7 @@
 - [Colors inspire](https://colorinspire.webflow.io/)
 - [Scale](https://hihayk.github.io/scale/)
 - [Picular](https://picular.co/): find colors for a word based on Google images
+- [Palette](https://palettte.app/): build color palettes by interpolating Hue, Saturation and Value (HSV)
 
 ### Development
 
