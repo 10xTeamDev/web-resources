@@ -67,3 +67,7 @@
 
 - [Checklist design](https://www.checklist.design)
 - [UI Store](https://www.uistore.design)
+
+### Miscellaneous 
+
+- [Social Sizes](https://socialsizes.io/)
