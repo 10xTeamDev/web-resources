@@ -41,6 +41,11 @@
 - [FontSquirrel](https://www.fontsquirrel.com)
 - [Google Fonts](https://fonts.google.com)
 - [Variable fonts](https://v-fonts.com/)
+- [Open Foundry](https://open-foundry.com/)
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [Lost Type](http://www.losttype.com/)
+- [Free Design Resources](https://freedesignresources.net/category/free-fonts/)
+- [Awwwards free fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
 
 ### Free media
 
