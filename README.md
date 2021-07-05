@@ -78,3 +78,4 @@
 ### Miscellaneous 
 
 - [Social Sizes](https://socialsizes.io/)
+- [Remove BG](https://www.remove.bg/)
