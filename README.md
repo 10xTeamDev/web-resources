@@ -51,6 +51,7 @@
 
 - [Mixkit](https://mixkit.co/)
 - [Unsplash](https://unsplash.com)
+- [Pexels](https://www.pexels.com/)
 
 ### Generators
 
