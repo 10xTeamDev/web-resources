@@ -62,6 +62,7 @@
 - [Graph visualization](http://graphviz.it/)
 - [Box shadows](https://brumm.af/shadows)
 - [Easing gradients](https://larsenwork.com/easing-gradients/)
+- [Favicon](https://realfavicongenerator.net/)
 
 ### Icons
 
