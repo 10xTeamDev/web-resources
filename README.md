@@ -63,6 +63,7 @@
 - [Box shadows](https://brumm.af/shadows)
 - [Easing gradients](https://larsenwork.com/easing-gradients/)
 - [Favicon](https://realfavicongenerator.net/)
+- [CSS Shadows](https://www.joshwcomeau.com/shadow-palette/)
 
 ### Icons
 
