@@ -80,4 +80,4 @@
 ### Miscellaneous 
 
 - [Social Sizes](https://socialsizes.io/)
-- [Remove BG](https://www.remove.bg/)
+- [Remove BG](https://express.adobe.com/tools/remove-background/)
