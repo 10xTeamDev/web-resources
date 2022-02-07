@@ -81,3 +81,4 @@
 
 - [Social Sizes](https://socialsizes.io/)
 - [Remove BG](https://express.adobe.com/tools/remove-background/)
+- [Google Sheets to JSON](https://benborgers.com/posts/google-sheets-json)
