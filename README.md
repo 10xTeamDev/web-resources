@@ -28,6 +28,10 @@
 - [Observable](https://observablehq.com/)
 - [CSS Font](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 
+### Blockchain
+
+- [ABI Encoding Service](https://abi.hashex.org/)
+
 ### Extensions
 
 - [HeadingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
