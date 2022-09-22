@@ -2,6 +2,7 @@
 
 ### Colors
 
+- [Coolors](https://coolors.co/)
 - [Color schemes tool](https://color.adobe.com/es/create/color-wheel/)
 - [Dribbble by color](https://dribbble.com/colors/BADA55)
 - [Accessible color generator](https://learnui.design/tools/accessible-color-generator.html)
