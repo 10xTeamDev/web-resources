@@ -67,6 +67,7 @@
 - [Graph visualization](http://graphviz.it/)
 - [Box shadows](https://brumm.af/shadows)
 - [Easing gradients](https://larsenwork.com/easing-gradients/)
+- [Gradient style](https://gradient.style/)
 - [Favicon](https://realfavicongenerator.net/)
 - [CSS Shadows](https://www.joshwcomeau.com/shadow-palette/)
 
