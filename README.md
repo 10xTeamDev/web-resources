@@ -83,6 +83,10 @@
 - [Checklist design](https://www.checklist.design)
 - [UI Store](https://www.uistore.design)
 
+### Branding
+
+- [Logobook](http://www.logobook.com/)
+
 ### Miscellaneous 
 
 - [Social Sizes](https://socialsizes.io/)
