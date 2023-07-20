@@ -16,34 +16,31 @@
 
 ### Development
 
-- [Cache-Control](https://csswizardry.com/2019/03/cache-control-for-civilians/)
-- [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
-- [Free for dev](https://free-for.dev/#/)
-- [Observable](https://observablehq.com/)
-- [CSS Font](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
+- [All about Cache-Control headers](https://csswizardry.com/2019/03/cache-control-for-civilians/)
+- [How to style a select HTML element](https://www.filamentgroup.com/lab/select-css.html)
+- [List of services that provide free tiers](https://free-for.dev/#/)
+- [How do CSS font metrics work](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 
 ### Blockchain
 
-- [ABI Encoding Service](https://abi.hashex.org/)
+- [Generate ABI-encoded data for function calls](https://abi.hashex.org/)
 
 ### Extensions
 
-- [HeadingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
-- [Full page screen capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
-- [Modify headers](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
-- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
-- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+- [Visualize the headings of a page](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+- [Take a full page screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+- [Modify HTTP headers on the fly](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
+- [Pick a color from a website](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+- [Identify font family on a website](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
-### Fonts
+### Free fonts
 
 - [FontSquirrel](https://www.fontsquirrel.com)
 - [Google Fonts](https://fonts.google.com)
-- [Variable fonts](https://v-fonts.com/)
 - [Open Foundry](https://open-foundry.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
-- [Lost Type](http://www.losttype.com/)
 - [Free Design Resources](https://freedesignresources.net/category/free-fonts/)
-- [Awwwards free fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
+- [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
 
 ### Free media
 
@@ -51,39 +48,33 @@
 - [Unsplash](https://unsplash.com)
 - [Pexels](https://www.pexels.com/)
 
+### Free icons
+
+- [Feather Icons](https://feathericons.com)
+- [Hero Icons](https://heroicons.com/)
+- [SF-Symbols](https://developer.apple.com/sf-symbols/)
+
 ### Generators
 
-- [SVG Blob maker](https://www.blobmaker.app)
-- [SVG Waves maker](https://getwaves.io)
+- [SVG design assets generator](https://haikei.app/)
 - [Responsive image breakpoints](https://responsivebreakpoints.com)
 - [README badges](https://shields.io)
-- [Graph visualization](http://graphviz.it/)
-- [Box shadows](https://brumm.af/shadows)
-- [Easing gradients](https://larsenwork.com/easing-gradients/)
-- [Gradient style](https://gradient.style/)
+- [Eased gradients](https://larsenwork.com/easing-gradients/)
 - [Favicon](https://realfavicongenerator.net/)
 - [CSS Shadows](https://www.joshwcomeau.com/shadow-palette/)
 - [Duotone images](https://duotone.shapefactory.co)
-
-### Icons
-
-- [Unicons](https://iconscout.com/unicons)
-- [Feather Icons](https://feathericons.com)
-- [SVG optimizer](https://jakearchibald.github.io/svgomg/)
-- [Hero Patterns](http://www.heropatterns.com)
+- [Optimize SVG](https://jakearchibald.github.io/svgomg/)
+- [Optimize images](https://squoosh.app/)
+- [Instagram grid maker](https://mysocialboutique.co/instagram-grid-maker/)
+- [Remove background of images](https://express.adobe.com/tools/remove-background/)
+- [Google Sheets to JSON](https://benborgers.com/posts/google-sheets-json)
 
 ### UX & UI
 
-- [Checklist design](https://www.checklist.design)
-- [UI Store](https://www.uistore.design)
+- [Free UI kits](https://www.uistore.design)
+- [Checklists for design](https://www.checklist.design)
 
 ### Branding
 
-- [Logobook](http://www.logobook.com/)
-
-### Miscellaneous 
-
-- [Social Sizes](https://socialsizes.io/)
-- [Remove BG](https://express.adobe.com/tools/remove-background/)
-- [Google Sheets to JSON](https://benborgers.com/posts/google-sheets-json)
-- [Instagram grid maker](https://mysocialboutique.co/instagram-grid-maker/)
+- [Biggest logo inspiration book](http://www.logobook.com/)
+- [Sizes of all images for social media](https://socialsizes.io/)
