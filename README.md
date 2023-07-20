@@ -1,25 +1,18 @@
-# A list of useful resources for building things on the web
+## A list of useful resources for building things on the web
 
 ### Colors
 
-- [Coolors](https://coolors.co/)
-- [Color schemes tool](https://color.adobe.com/es/create/color-wheel/)
-- [Dribbble by color](https://dribbble.com/colors/BADA55)
-- [Accessible color generator](https://learnui.design/tools/accessible-color-generator.html)
-- [Data visualization color picker](https://learnui.design/tools/data-color-picker.html)
+- [Palettes generator](https://coolors.co/)
+- [Palettes generator by armony](https://color.adobe.com/es/create/color-wheel/)
+- [Data visualization palette generator](https://learnui.design/tools/data-color-picker.html)
+- [Find closest accessible color](https://learnui.design/tools/accessible-color-generator.html)
+- [Apply color over palette](https://javier.xyz/cohesive-colors/)
 - [Muzli Search](https://search.muz.li)
-- [Duotone images](https://duotone.shapefactory.co)
-- [Use contrast](https://usecontrast.com)
-- [Leonardo](https://leonardocolor.io/)
-- [Happy hues](https://www.happyhues.co/)
-- [Cohesive colors](https://javier.xyz/cohesive-colors/)
-- [Muzli Colors](https://colors.muz.li/)
-- [Colors inspire](https://colorinspire.webflow.io/)
-- [Scale](https://hihayk.github.io/scale/)
-- [Picular](https://picular.co/): find colors for a word based on Google images
-- [Palette](https://palettte.app/): build color palettes by interpolating Hue, Saturation and Value (HSV)
-- [Colors Eva Design](https://colors.eva.design/): generate semantic colors from a brand color
-- [Accessible color matrix](https://toolness.github.io/accessible-color-matrix/): visualize in a matrix the color constrast of your palette
+- [Dribbble by color](https://dribbble.com/shots?color=BADA55)
+- [49 three colors palettes](https://colorinspire.webflow.io/)
+- [Find colors that inspire a certain word](https://picular.co/)
+- [Generate success-info-warning-error colors from a primary color](https://colors.eva.design/)
+- [Visualize in a matrix the color constrast of your palette](https://toolness.github.io/accessible-color-matrix/)
 
 ### Development
 
@@ -70,6 +63,7 @@
 - [Gradient style](https://gradient.style/)
 - [Favicon](https://realfavicongenerator.net/)
 - [CSS Shadows](https://www.joshwcomeau.com/shadow-palette/)
+- [Duotone images](https://duotone.shapefactory.co)
 
 ### Icons
 
